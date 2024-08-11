@@ -1,4 +1,4 @@
-# anima-o-css-html-
+# animacao-css-html-
 animação (css + html)
 
 referèncias:
